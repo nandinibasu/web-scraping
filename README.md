@@ -1,2 +1,4 @@
 # scraping-ebay
-Mass scraping ebay and saving product information in relational database 
+BAX 422 -  Data Design and Representation - Midterm
+<br>
+Mass scraping ebay using Beautiful Soup and saving product information in MySQL server
